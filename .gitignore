@@ -1,0 +1,27 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.local
+
+# Java / Spring Boot
+backend/target/
+*.class
+*.log
+
+# React / Vite
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE configuration
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Private keys
+*.pem
+*.key
