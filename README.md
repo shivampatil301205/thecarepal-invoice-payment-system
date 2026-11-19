@@ -316,12 +316,6 @@ The application incorporates the following payment security measures:
 - Database-level concurrency controls for simultaneous webhook deliveries.
 - Cloud deployment and production monitoring.
 
-## AI Assistance Disclosure
-
-AI-assisted tools, including ChatGPT, were used during development for architecture guidance, code generation, debugging, documentation, and understanding Spring Boot and Razorpay integration.
-
-The application was configured, executed, and tested locally during development. AI-generated suggestions were reviewed and adapted as part of the implementation process.
-
 ## Author
 
 **Shivam Patil**
